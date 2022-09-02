@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 ls -a ./  ../boot
-=======
-ls -a 
->>>>>>> a52ef71d9d1cf8ef7ac1a8aab05887570b29b31c
